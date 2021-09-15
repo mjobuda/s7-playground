@@ -1,4 +1,4 @@
-#+TITLE: s7 playground
+#+TITLE: Zabawa w S7
 # the org-babel-execute:scheme is modded so that it outputs html
 #+PROPERTY: header-args:scheme :exports both :eval never-export :wrap export html
 # see https://orgmode.org/manual/Publishing-options.html
@@ -311,7 +311,7 @@ this-will-cause-an-error
   These 2 implentations are essentially the same.
 
 
-** Fun with macros
+** Zabawa z makrami
    Internally in this document I'm using the =examples= macro to
    showcase small snippets and their results. That saves me from
    writing the result myself. I only write the code snippets wrapped
